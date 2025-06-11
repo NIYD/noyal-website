@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Meaning of Noyal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 20px;
+            color: #34495e;
+        }
+        .card {
+            background: #ffffff;
+            padding: 20px;
+            margin: 30px auto;
+            max-width: 600px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Hello! 🌟</h1>
+        <p>Welcome to the official page of the name <strong>Noyal</strong>.</p>
+        <p><strong>Noyal</strong> is a unique and modern name that symbolizes creativity, intelligence, and kindness.</p>
+        <p>It’s a name that stands out – just like you!</p>
+    </div>
+
+</body>
+</html>
